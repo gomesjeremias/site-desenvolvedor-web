@@ -52,8 +52,7 @@ Layout responsivo com Bootstrap
 📡 Integração com APIs
 Possuo experiência no consumo e criação de APIs REST e RESTful. Alguns dos projetos apresentados no portfólio fazem uso de integração com APIs externas ou backend com Node.js.
 
-📷 Demonstração
-(Você pode inserir aqui um link para o site publicado ou uma imagem do portfólio)
+
 
 🔗 Acesse o portfólio online
 
